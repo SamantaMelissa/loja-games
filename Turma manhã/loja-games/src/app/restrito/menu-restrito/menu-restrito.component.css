@@ -3,15 +3,15 @@
 }
 
 span {
-    padding: 10px;
+    padding: 5px 5px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
 
 img {
     height: 50px;
     width: 50px;
-}
-
-a{
-    text-decoration: none;
-    color: black;
 }
